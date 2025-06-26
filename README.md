@@ -131,4 +131,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the issues page if you want to contribute.
+Contributions, issues, and feature requests are welcome! Feel free to check the issues page if you want to contribute. PROInvesting.co
